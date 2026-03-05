@@ -14,7 +14,7 @@ Aplikasi web fullstack **Dashboard Kasir** untuk mengelola daftar menu restoran.
 
 | Belum Login | Sudah Login |
 |:-----------:|:-----------:|
-|  |  |
+| <img width="480" height="665" alt="Screenshot 2026-03-05 101933" src="https://github.com/user-attachments/assets/2e6da475-c38c-4a11-931a-d2de76e71784" /> | <img width="480" height="665" alt="Screenshot 2026-03-05 101958" src="https://github.com/user-attachments/assets/31a11476-1e78-4bc6-87ab-7333a9545f36" /> |
 
 ## 🛠️ Teknologi yang Digunakan
 
